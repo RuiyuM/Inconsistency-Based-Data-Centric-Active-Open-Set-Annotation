@@ -1,6 +1,7 @@
-﻿# Inconsistency-Based Data-Centric Active Open-Set Annotation
-An implementation of NEAT batch active learning algorithm for Open-Set Annotation.
-Details are provided in our paper[***]
+# Inconsistency-Based Data-Centric Active Open-Set Annotation
+An implementation of the NEAT batch active learning algorithm for Open-Set Annotation.
+Details are provided in our paper: [https://ojs.aaai.org/index.php/AAAI/article/view/28213](https://ojs.aaai.org/index.php/AAAI/article/view/28213)
+
 
 
 
